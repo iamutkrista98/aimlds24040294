@@ -1,0 +1,3 @@
+at first ensure the virtual environment is setup just to avoid incompatibility and ensure reproducibility against the version packages i possess
+then open terminal and pip install -r requirements.txt
+after this run the command streamlit run app.py
